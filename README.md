@@ -78,8 +78,7 @@ The output will be saved in the same directory with a timestamped filename like:
 
 ## 🧑‍💻 Author
 
-**Samruddhi Patil**  
-📫 [LinkedIn](https://linkedin.com/) | 💻 [GitHub](https://github.com/)
+**Manosakthi Thiyagarajan**  
 
 ---
 
